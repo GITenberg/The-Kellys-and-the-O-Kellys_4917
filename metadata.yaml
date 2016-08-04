@@ -1,0 +1,33 @@
+_repo: The-Kellys-and-the-O-Kellys_4917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Kellys and the O'Kellys is a novel by Anthony Trollope. It was written\
+  \ in Ireland and published in 1848.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4917'
+  wikidata: Q7744082
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'Landowners -- Fiction'
+- !lcsh 'Land tenure -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+- GITenberg
+title: The Kellys and the O'Kellys
+url: http://www.gutenberg.org/ebooks/4917
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Kellys_and_the_O%27Kellys
